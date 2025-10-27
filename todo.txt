@@ -1,3 +1,6 @@
-[ ] Osta huuhteluainetta [ ] Harjottele tenttin [ ] Tee palautettavat tehtävät [x] Tee ruokaa ja syö
-[x] Tee lopputyötä ja lähetä
+[ ] Osta huuhteluainetta
+[ ] Harjottele tenttin 
+[ ] Tee palautettavat tehtävät 
+[x] Tee ruokaa ja syö
+[x] Tee lopputyötä
 [ ] Tankkaa auto
